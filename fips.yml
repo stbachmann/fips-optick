@@ -1,0 +1,9 @@
+#
+# fips-optick
+#
+---
+exports:
+    header-dirs:
+        - optick/src
+    modules:
+        optick: .
